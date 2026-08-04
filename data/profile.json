@@ -1,0 +1,113 @@
+{
+  "name": "Iraquitan Ítalo",
+  "photo": "assets/img/my_photo.jpg",
+  "job": "Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas",
+  "location": "Carpina - PE",
+  "phone": "(81) 98975-9207",
+  "whatssapp": "5581989759207",
+  "email": "italoiraquitan@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "assets/img/icons/tools/js.svg"
+      },
+      {
+        "name": "Node.js",
+        "logo": "assets/img/icons/tools/node.svg"
+      },
+      {
+        "name": "React",
+        "logo": "assets/img/icons/tools/react.svg"
+      },
+      {
+        "name": "Java",
+        "logo": "assets/img/icons/tools/java.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "assets/img/icons/tools/python.svg"
+      },
+      {
+        "name": "Express.js",
+        "logo": "assets/img/icons/tools/express.svg"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "assets/img/icons/tools/typejs.svg"
+      },
+      {
+        "name": "MySQL",
+        "logo": "assets/img/icons/tools/mysql.svg"
+      },
+      {
+        "name": "HTML5",
+        "logo": "assets/img/icons/tools/html.svg"
+      },
+      {
+        "name": "CSS3",
+        "logo": "assets/img/icons/tools/css.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "assets/img/icons/tools/git.svg"
+      },
+      {
+        "name": "GitHub",
+        "logo": "assets/img/icons/tools/github.svg"
+      }
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Organização",
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Comunicação",
+      "Aprendizado contínuo"
+    ]
+  },
+  "languages": [
+    "Português (Nativo)",
+    "Inglês (Intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Task Manager Dashboard",
+      "url": "https://github.com/iraquitan-italo/Task-Manager-Dashboard",
+      "github": true
+    },
+    {
+      "name": "Task Manager API",
+      "url": "https://github.com/iraquitan-italo/Task-Manager-API",
+      "github": true
+    },
+    {
+      "name": "Pokédex",
+      "url": "https://github.com/iraquitan-italo/pokedex-js",
+      "github": true
+    },
+    {
+      "name": "Podcast Manager API",
+      "url": "https://github.com/iraquitan-italo/podcast-manager-api",
+      "github": true
+    },
+    {
+      "name": "Champions League API",
+      "url": "https://github.com/iraquitan-italo/champions-league-api",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Auxiliar de Escritório | Doces Talentos",
+      "period": "Set 2025 - Dez 2025",
+      "description": "Responsável pelo controle de estoque, organização de documentos, compras, controle de manutenção de caminhões, digitalização de ordens de serviço e desenvolvimento de uma automação com IA para WhatsApp."
+    },
+    {
+      "name": "Jovem Aprendiz | Usina Petribu",
+      "period": "Mai 2024 - Mai 2025",
+      "description": "Atuação em atividades administrativas, organização de documentos, suporte aos setores e desenvolvimento profissional."
+    }
+  ]
+}
